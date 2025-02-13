@@ -1,0 +1,741 @@
+{
+  "id": "Dvi0192734a8",
+  "audio": "Dvi0192734a8.oga",
+  "event": [
+    {
+      "startTime": 50,
+      "type": "image-switch",
+      "urlImage": "000000012.png"
+    },
+    {
+      "startTime": 6441,
+      "type": "image-switch",
+      "urlImage": "000000013.png"
+    },
+    {
+      "startTime": 22208,
+      "type": "image-switch",
+      "urlImage": "000000014.png"
+    },
+    {
+      "startTime": 34713,
+      "type": "image-switch",
+      "urlImage": "000000015.png"
+    }
+  ],
+  "text": "Chào Lan! Mình là James, đến từ Hoa Kỳ. Rất vui được gặp bạn. Chào James! Mình là Lan, đến từ Việt Nam. Rất vui được làm quen với bạn. Bạn làm nghề gì vậy, Lan? Mình là cô giáo dạy ngoại ngữ. Còn bạn? Mình là kỹ sư hàng không. Nghe thú vị quá! Bạn đến Việt Nam lâu chưa? Mình mới đến đây được vài ngày. Hy vọng bạn sẽ thích Việt Nam! Cảm ơn Lan!",
+  "dialog": [
+    {
+      "speaker": "James",
+      "text": "Chào Lan! Mình là James, đến từ Hoa Kỳ. Rất vui được gặp bạn."
+    },
+    {
+      "speaker": "Lan",
+      "text": "Chào James! Mình là Lan, đến từ Việt Nam. Rất vui được làm quen với bạn."
+    },
+    {
+      "speaker": "James",
+      "text": "Bạn làm nghề gì vậy, Lan?"
+    },
+    {
+      "speaker": "Lan",
+      "text": "Mình là cô giáo dạy ngoại ngữ. Còn bạn?"
+    },
+    {
+      "speaker": "James",
+      "text": "Mình là kỹ sư hàng không."
+    },
+    {
+      "speaker": "Lan",
+      "text": "Nghe thú vị quá! Bạn đến Việt Nam lâu chưa?"
+    },
+    {
+      "speaker": "James",
+      "text": "Mình mới đến đây được vài ngày."
+    },
+    {
+      "speaker": "Lan",
+      "text": "Hy vọng bạn sẽ thích Việt Nam!"
+    },
+    {
+      "speaker": "James",
+      "text": "Cảm ơn Lan!"
+    }
+  ],
+  "timestamp": [
+    {
+      "startTime": 88,
+      "timeDuration": 250,
+      "text": "Chào",
+      "startIndex": 0,
+      "length": 4
+    },
+    {
+      "startTime": 352,
+      "timeDuration": 456,
+      "text": "Lan",
+      "startIndex": 5,
+      "length": 3
+    },
+    {
+      "startTime": 823,
+      "timeDuration": 118,
+      "text": "!",
+      "startIndex": 8,
+      "length": 1
+    },
+    {
+      "startTime": 1279,
+      "timeDuration": 279,
+      "text": "Mình",
+      "startIndex": 10,
+      "length": 4
+    },
+    {
+      "startTime": 1573,
+      "timeDuration": 250,
+      "text": "là",
+      "startIndex": 15,
+      "length": 2
+    },
+    {
+      "startTime": 1838,
+      "timeDuration": 456,
+      "text": "James",
+      "startIndex": 18,
+      "length": 5
+    },
+    {
+      "startTime": 2411,
+      "timeDuration": 265,
+      "text": ",",
+      "startIndex": 23,
+      "length": 1
+    },
+    {
+      "startTime": 2676,
+      "timeDuration": 265,
+      "text": "đến",
+      "startIndex": 25,
+      "length": 3
+    },
+    {
+      "startTime": 2955,
+      "timeDuration": 265,
+      "text": "từ",
+      "startIndex": 29,
+      "length": 2
+    },
+    {
+      "startTime": 3235,
+      "timeDuration": 235,
+      "text": "Hoa",
+      "startIndex": 32,
+      "length": 3
+    },
+    {
+      "startTime": 3485,
+      "timeDuration": 544,
+      "text": "Kỳ",
+      "startIndex": 36,
+      "length": 2
+    },
+    {
+      "startTime": 4044,
+      "timeDuration": 118,
+      "text": ".",
+      "startIndex": 38,
+      "length": 1
+    },
+    {
+      "startTime": 4500,
+      "timeDuration": 250,
+      "text": "Rất",
+      "startIndex": 40,
+      "length": 3
+    },
+    {
+      "startTime": 4764,
+      "timeDuration": 235,
+      "text": "vui",
+      "startIndex": 44,
+      "length": 3
+    },
+    {
+      "startTime": 5014,
+      "timeDuration": 250,
+      "text": "được",
+      "startIndex": 48,
+      "length": 4
+    },
+    {
+      "startTime": 5279,
+      "timeDuration": 221,
+      "text": "gặp",
+      "startIndex": 53,
+      "length": 3
+    },
+    {
+      "startTime": 5514,
+      "timeDuration": 500,
+      "text": "bạn",
+      "startIndex": 57,
+      "length": 3
+    },
+    {
+      "startTime": 6029,
+      "timeDuration": 118,
+      "text": ".",
+      "startIndex": 60,
+      "length": 1
+    },
+    {
+      "startTime": 6441,
+      "timeDuration": 250,
+      "text": "Chào",
+      "startIndex": 62,
+      "length": 4
+    },
+    {
+      "startTime": 6764,
+      "timeDuration": 294,
+      "text": "James",
+      "startIndex": 67,
+      "length": 5
+    },
+    {
+      "startTime": 7103,
+      "timeDuration": 59,
+      "text": "!",
+      "startIndex": 72,
+      "length": 1
+    },
+    {
+      "startTime": 8147,
+      "timeDuration": 250,
+      "text": "Mình",
+      "startIndex": 74,
+      "length": 4
+    },
+    {
+      "startTime": 8426,
+      "timeDuration": 191,
+      "text": "là",
+      "startIndex": 79,
+      "length": 2
+    },
+    {
+      "startTime": 8647,
+      "timeDuration": 382,
+      "text": "Lan",
+      "startIndex": 82,
+      "length": 3
+    },
+    {
+      "startTime": 9103,
+      "timeDuration": 221,
+      "text": ",",
+      "startIndex": 85,
+      "length": 1
+    },
+    {
+      "startTime": 9338,
+      "timeDuration": 279,
+      "text": "đến",
+      "startIndex": 87,
+      "length": 3
+    },
+    {
+      "startTime": 9676,
+      "timeDuration": 162,
+      "text": "từ",
+      "startIndex": 91,
+      "length": 2
+    },
+    {
+      "startTime": 9867,
+      "timeDuration": 235,
+      "text": "Việt",
+      "startIndex": 94,
+      "length": 4
+    },
+    {
+      "startTime": 10147,
+      "timeDuration": 294,
+      "text": "Nam",
+      "startIndex": 99,
+      "length": 3
+    },
+    {
+      "startTime": 10470,
+      "timeDuration": 59,
+      "text": ".",
+      "startIndex": 102,
+      "length": 1
+    },
+    {
+      "startTime": 11500,
+      "timeDuration": 206,
+      "text": "Rất",
+      "startIndex": 104,
+      "length": 3
+    },
+    {
+      "startTime": 11764,
+      "timeDuration": 265,
+      "text": "vui",
+      "startIndex": 108,
+      "length": 3
+    },
+    {
+      "startTime": 12073,
+      "timeDuration": 191,
+      "text": "được",
+      "startIndex": 112,
+      "length": 4
+    },
+    {
+      "startTime": 12294,
+      "timeDuration": 265,
+      "text": "làm",
+      "startIndex": 117,
+      "length": 3
+    },
+    {
+      "startTime": 12603,
+      "timeDuration": 250,
+      "text": "quen",
+      "startIndex": 121,
+      "length": 4
+    },
+    {
+      "startTime": 12897,
+      "timeDuration": 221,
+      "text": "với",
+      "startIndex": 126,
+      "length": 3
+    },
+    {
+      "startTime": 13161,
+      "timeDuration": 338,
+      "text": "bạn",
+      "startIndex": 130,
+      "length": 3
+    },
+    {
+      "startTime": 13529,
+      "timeDuration": 29,
+      "text": ".",
+      "startIndex": 133,
+      "length": 1
+    },
+    {
+      "startTime": 14588,
+      "timeDuration": 235,
+      "text": "Bạn",
+      "startIndex": 135,
+      "length": 3
+    },
+    {
+      "startTime": 14838,
+      "timeDuration": 250,
+      "text": "làm",
+      "startIndex": 139,
+      "length": 3
+    },
+    {
+      "startTime": 15103,
+      "timeDuration": 265,
+      "text": "nghề",
+      "startIndex": 143,
+      "length": 4
+    },
+    {
+      "startTime": 15382,
+      "timeDuration": 265,
+      "text": "gì",
+      "startIndex": 148,
+      "length": 2
+    },
+    {
+      "startTime": 15662,
+      "timeDuration": 368,
+      "text": "vậy",
+      "startIndex": 151,
+      "length": 3
+    },
+    {
+      "startTime": 16147,
+      "timeDuration": 368,
+      "text": ",",
+      "startIndex": 154,
+      "length": 1
+    },
+    {
+      "startTime": 16515,
+      "timeDuration": 456,
+      "text": "Lan",
+      "startIndex": 156,
+      "length": 3
+    },
+    {
+      "startTime": 16985,
+      "timeDuration": 118,
+      "text": "?",
+      "startIndex": 159,
+      "length": 1
+    },
+    {
+      "startTime": 17397,
+      "timeDuration": 265,
+      "text": "Mình",
+      "startIndex": 161,
+      "length": 4
+    },
+    {
+      "startTime": 17691,
+      "timeDuration": 176,
+      "text": "là",
+      "startIndex": 166,
+      "length": 2
+    },
+    {
+      "startTime": 17971,
+      "timeDuration": 132,
+      "text": "cô",
+      "startIndex": 169,
+      "length": 2
+    },
+    {
+      "startTime": 18176,
+      "timeDuration": 206,
+      "text": "giáo",
+      "startIndex": 172,
+      "length": 4
+    },
+    {
+      "startTime": 18441,
+      "timeDuration": 235,
+      "text": "dạy",
+      "startIndex": 177,
+      "length": 3
+    },
+    {
+      "startTime": 18735,
+      "timeDuration": 250,
+      "text": "ngoại",
+      "startIndex": 181,
+      "length": 5
+    },
+    {
+      "startTime": 19044,
+      "timeDuration": 338,
+      "text": "ngữ",
+      "startIndex": 187,
+      "length": 3
+    },
+    {
+      "startTime": 19456,
+      "timeDuration": 15,
+      "text": ".",
+      "startIndex": 190,
+      "length": 1
+    },
+    {
+      "startTime": 20456,
+      "timeDuration": 221,
+      "text": "Còn",
+      "startIndex": 192,
+      "length": 3
+    },
+    {
+      "startTime": 20765,
+      "timeDuration": 382,
+      "text": "bạn",
+      "startIndex": 196,
+      "length": 3
+    },
+    {
+      "startTime": 21162,
+      "timeDuration": 29,
+      "text": "?",
+      "startIndex": 199,
+      "length": 1
+    },
+    {
+      "startTime": 22208,
+      "timeDuration": 279,
+      "text": "Mình",
+      "startIndex": 201,
+      "length": 4
+    },
+    {
+      "startTime": 22502,
+      "timeDuration": 206,
+      "text": "là",
+      "startIndex": 206,
+      "length": 2
+    },
+    {
+      "startTime": 22723,
+      "timeDuration": 294,
+      "text": "kỹ",
+      "startIndex": 209,
+      "length": 2
+    },
+    {
+      "startTime": 23032,
+      "timeDuration": 265,
+      "text": "sư",
+      "startIndex": 212,
+      "length": 2
+    },
+    {
+      "startTime": 23311,
+      "timeDuration": 338,
+      "text": "hàng",
+      "startIndex": 215,
+      "length": 4
+    },
+    {
+      "startTime": 23664,
+      "timeDuration": 426,
+      "text": "không",
+      "startIndex": 220,
+      "length": 5
+    },
+    {
+      "startTime": 24105,
+      "timeDuration": 118,
+      "text": ".",
+      "startIndex": 225,
+      "length": 1
+    },
+    {
+      "startTime": 24517,
+      "timeDuration": 235,
+      "text": "Nghe",
+      "startIndex": 227,
+      "length": 4
+    },
+    {
+      "startTime": 24841,
+      "timeDuration": 162,
+      "text": "thú",
+      "startIndex": 232,
+      "length": 3
+    },
+    {
+      "startTime": 25017,
+      "timeDuration": 221,
+      "text": "vị",
+      "startIndex": 236,
+      "length": 2
+    },
+    {
+      "startTime": 25341,
+      "timeDuration": 353,
+      "text": "quá",
+      "startIndex": 239,
+      "length": 3
+    },
+    {
+      "startTime": 25738,
+      "timeDuration": 15,
+      "text": "!",
+      "startIndex": 242,
+      "length": 1
+    },
+    {
+      "startTime": 26738,
+      "timeDuration": 250,
+      "text": "Bạn",
+      "startIndex": 244,
+      "length": 3
+    },
+    {
+      "startTime": 27061,
+      "timeDuration": 250,
+      "text": "đến",
+      "startIndex": 248,
+      "length": 3
+    },
+    {
+      "startTime": 27326,
+      "timeDuration": 206,
+      "text": "Việt",
+      "startIndex": 252,
+      "length": 4
+    },
+    {
+      "startTime": 27576,
+      "timeDuration": 265,
+      "text": "Nam",
+      "startIndex": 257,
+      "length": 3
+    },
+    {
+      "startTime": 27855,
+      "timeDuration": 191,
+      "text": "lâu",
+      "startIndex": 261,
+      "length": 3
+    },
+    {
+      "startTime": 28120,
+      "timeDuration": 265,
+      "text": "chưa",
+      "startIndex": 265,
+      "length": 4
+    },
+    {
+      "startTime": 28429,
+      "timeDuration": 15,
+      "text": "?",
+      "startIndex": 269,
+      "length": 1
+    },
+    {
+      "startTime": 29460,
+      "timeDuration": 250,
+      "text": "Mình",
+      "startIndex": 271,
+      "length": 4
+    },
+    {
+      "startTime": 29725,
+      "timeDuration": 176,
+      "text": "mới",
+      "startIndex": 276,
+      "length": 3
+    },
+    {
+      "startTime": 29916,
+      "timeDuration": 206,
+      "text": "đến",
+      "startIndex": 280,
+      "length": 3
+    },
+    {
+      "startTime": 30137,
+      "timeDuration": 191,
+      "text": "đây",
+      "startIndex": 284,
+      "length": 3
+    },
+    {
+      "startTime": 30343,
+      "timeDuration": 250,
+      "text": "được",
+      "startIndex": 288,
+      "length": 4
+    },
+    {
+      "startTime": 30607,
+      "timeDuration": 221,
+      "text": "vài",
+      "startIndex": 293,
+      "length": 3
+    },
+    {
+      "startTime": 30843,
+      "timeDuration": 485,
+      "text": "ngày",
+      "startIndex": 297,
+      "length": 4
+    },
+    {
+      "startTime": 31343,
+      "timeDuration": 118,
+      "text": ".",
+      "startIndex": 301,
+      "length": 1
+    },
+    {
+      "startTime": 31757,
+      "timeDuration": 191,
+      "text": "Hy",
+      "startIndex": 303,
+      "length": 2
+    },
+    {
+      "startTime": 31992,
+      "timeDuration": 250,
+      "text": "vọng",
+      "startIndex": 306,
+      "length": 4
+    },
+    {
+      "startTime": 32315,
+      "timeDuration": 221,
+      "text": "bạn",
+      "startIndex": 311,
+      "length": 3
+    },
+    {
+      "startTime": 32565,
+      "timeDuration": 191,
+      "text": "sẽ",
+      "startIndex": 315,
+      "length": 2
+    },
+    {
+      "startTime": 32830,
+      "timeDuration": 132,
+      "text": "thích",
+      "startIndex": 318,
+      "length": 5
+    },
+    {
+      "startTime": 33036,
+      "timeDuration": 206,
+      "text": "Việt",
+      "startIndex": 324,
+      "length": 4
+    },
+    {
+      "startTime": 33271,
+      "timeDuration": 338,
+      "text": "Nam",
+      "startIndex": 329,
+      "length": 3
+    },
+    {
+      "startTime": 33639,
+      "timeDuration": 29,
+      "text": "!",
+      "startIndex": 332,
+      "length": 1
+    },
+    {
+      "startTime": 34713,
+      "timeDuration": 265,
+      "text": "Cảm",
+      "startIndex": 334,
+      "length": 3
+    },
+    {
+      "startTime": 34992,
+      "timeDuration": 250,
+      "text": "ơn",
+      "startIndex": 338,
+      "length": 2
+    },
+    {
+      "startTime": 35257,
+      "timeDuration": 456,
+      "text": "Lan",
+      "startIndex": 341,
+      "length": 3
+    },
+    {
+      "startTime": 35727,
+      "timeDuration": 118,
+      "text": "!",
+      "startIndex": 344,
+      "length": 1
+    }
+  ]
+}
+
+

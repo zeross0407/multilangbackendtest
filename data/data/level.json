@@ -1,0 +1,497 @@
+{
+  "levels": [
+    {
+      "id": "Avi0000000001",
+      "name": "1. Đủ dùng một tuần đầu tiên",
+      "order": 1,
+      "title-de": "Genug für die erste Woche",
+      "title-en": "Enough for the first week",
+      "title-ko": "첫 주를 위한 충분한 것",
+      "title-vn": "Đủ dùng một tuần đầu tiên",
+      "lessons": [
+        {
+          "id": "Bvi000000001",
+          "image": "000000001.jpeg",
+          "order": 1,
+          "title-de": "Begrüßungen, Vorstellungen, Verabschiedungen",
+          "title-en": "Greetings, introductions, goodbyes",
+          "title-ko": "인사, 소개, 작별 인사",
+          "title-vn": "Chào hỏi, giới thiệu, tạm biệt"
+        },
+        {
+          "id": "Bvi000000002",
+          "image": "000000002.jpeg",
+          "order": 2,
+          "title-de": "Namen und Berufe",
+          "title-en": "Names and occupations",
+          "title-ko": "이름과 직업",
+          "title-vn": "Tên, nghề nghiệp"
+        },
+        {
+          "id": "Bvi000000003",
+          "image": "000000003.jpeg",
+          "order": 3,
+          "title-de": "Länder und Sprachen",
+          "title-en": "Countries and languages",
+          "title-ko": "국가와 언어",
+          "title-vn": "Quốc gia, ngôn ngữ"
+        },
+        {
+          "id": "Bvi000000004",
+          "image": "000000004.jpeg",
+          "order": 4,
+          "title-de": "Was ist das?",
+          "title-en": "What is this?",
+          "title-ko": "이것이 무엇입니까?",
+          "title-vn": "Cái này là cái gì?"
+        },
+        {
+          "id": "Bvi000000005",
+          "image": "000000005.jpeg",
+          "order": 5,
+          "title-de": "Wie viel kostet das?",
+          "title-en": "How much is this?",
+          "title-ko": "이것은 얼마입니까?",
+          "title-vn": "Cái này bao nhiêu tiền?"
+        },
+        {
+          "id": "Bvi000000006",
+          "image": "000000006.jpeg",
+          "order": 6,
+          "title-de": "Ich muss etwas tun",
+          "title-en": "I need to do something",
+          "title-ko": "나는 무언가를 해야 합니다",
+          "title-vn": "Tôi cần làm gì đó"
+        }
+      ]
+    },
+    {
+      "id": "Avi0000000002",
+      "name": "2. Đến nhà người bản xứ",
+      "order": 2,
+      "title-de": "Besuch bei Einheimischen",
+      "title-en": "Visiting a local's home",
+      "title-ko": "현지인의 집 방문",
+      "title-vn": "Đến nhà người bản xứ",
+      "lessons": [
+        {
+          "id": "Bvi000000007",
+          "image": "./....",
+          "order": 1,
+          "title-de": "Familienmitglieder",
+          "title-en": "Family members",
+          "title-ko": "가족 구성원",
+          "title-vn": "Thành viên trong gia đình"
+        },
+        {
+          "id": "Bvi000000008",
+          "image": "./....",
+          "order": 2,
+          "title-de": "Tägliche Aktivitäten",
+          "title-en": "Daily activities",
+          "title-ko": "일상 활동",
+          "title-vn": "Các việc làm trong ngày"
+        },
+        {
+          "id": "Bvi000000009",
+          "image": "./....",
+          "order": 3,
+          "title-de": "Lokale Gerichte",
+          "title-en": "Local dishes",
+          "title-ko": "현지 음식",
+          "title-vn": "Các món ăn địa phương"
+        },
+        {
+          "id": "Bvi000000010",
+          "image": "./....",
+          "order": 4,
+          "title-de": "Essen kommentieren",
+          "title-en": "Commenting on food",
+          "title-ko": "음식 평가하기",
+          "title-vn": "Nhận xét món ăn"
+        },
+        {
+          "id": "Bvi000000011",
+          "image": "./....",
+          "order": 5,
+          "title-de": "Ich war an Ort X. Es ist schön.",
+          "title-en": "I went to place X. It's beautiful.",
+          "title-ko": "나는 X 장소에 갔습니다. 아주 아름답습니다.",
+          "title-vn": "Tôi đã đến địa điểm X. Nó rất đẹp."
+        },
+        {
+          "id": "Bvi000000012",
+          "image": "./....",
+          "order": 6,
+          "title-de": "Nach dem Weg zu Ort X fragen",
+          "title-en": "Asking for directions to place X",
+          "title-ko": "X 장소까지 가는 길 묻기",
+          "title-vn": "Hỏi đường đến địa điểm X"
+        }
+      ]
+    },
+    {
+      "id": "Avi0000000003",
+      "name": "3. Thời tiết, ngày tháng, thời gian",
+      "order": 3,
+      "title-de": "Wetter, Datum und Zeit",
+      "title-en": "Weather, dates, and time",
+      "title-ko": "날씨, 날짜, 시간",
+      "title-vn": "Thời tiết, ngày tháng, thời gian",
+      "lessons": [
+        {
+          "id": "Bvi000000013",
+          "image": "./....",
+          "order": 1,
+          "title-de": "Wetter und Vorhersage",
+          "title-en": "Weather and forecast",
+          "title-ko": "날씨와 예보",
+          "title-vn": "Thời tiết và dự báo"
+        },
+        {
+          "id": "Bvi000000014",
+          "image": "./....",
+          "order": 2,
+          "title-de": "Wochentage, Monate des Jahres",
+          "title-en": "Days of the week, months of the year",
+          "title-ko": "요일, 월",
+          "title-vn": "Ngày trong tuần, tháng trong năm"
+        },
+        {
+          "id": "Bvi000000015",
+          "image": "./....",
+          "order": 3,
+          "title-de": "Jahreszeiten",
+          "title-en": "Seasons of the year",
+          "title-ko": "계절",
+          "title-vn": "Các mùa trong năm"
+        },
+        {
+          "id": "Bvi000000016",
+          "image": "./....",
+          "order": 4,
+          "title-de": "Nach Zukunftsplänen fragen",
+          "title-en": "Asking about future plans",
+          "title-ko": "미래 계획에 대해 묻기",
+          "title-vn": "Hỏi về dự định trong tương lai"
+        },
+        {
+          "id": "Bvi000000017",
+          "image": "./....",
+          "order": 5,
+          "title-de": "Zeit, Terminplanung, was ich wann mache",
+          "title-en": "Time, scheduling, what I do when",
+          "title-ko": "시간, 일정, 언제 무엇을 하는지",
+          "title-vn": "Giờ giấc, hẹn lịch, tôi làm gì vào lúc nào"
+        }
+      ]
+    },
+    {
+      "id": "Avi0000000004",
+      "name": "4. Đi du lịch, thuê khách sạn, resort",
+      "order": 4,
+      "title-de": "Reisen, Hotels und Resorts buchen",
+      "title-en": "Traveling, booking hotels and resorts",
+      "title-ko": "여행, 호텔과 리조트 예약",
+      "title-vn": "Đi du lịch, thuê khách sạn, resort",
+      "lessons": [
+        {
+          "id": "Bvi000000018",
+          "image": "./....",
+          "order": 1,
+          "title-de": "Hotels und Pensionen buchen",
+          "title-en": "Booking hotels and guesthouses",
+          "title-ko": "호텔과 게스트하우스 예약",
+          "title-vn": "Đặt phòng khách sạn, nhà nghỉ"
+        },
+        {
+          "id": "Bvi000000019",
+          "image": "./....",
+          "order": 2,
+          "title-de": "Tickets für Züge, Fahrzeuge, Touren und Versicherungen kaufen",
+          "title-en": "Buying tickets for trains, vehicles, tours, and insurance",
+          "title-ko": "기차, 차량, 투어 티켓 및 보험 구매",
+          "title-vn": "Mua vé tàu, xe, tour du lịch, mua bảo hiểm"
+        },
+        {
+          "id": "Bvi000000020",
+          "image": "./....",
+          "order": 3,
+          "title-de": "Zum Strand und in die Berge gehen",
+          "title-en": "Going to the beach and mountains",
+          "title-ko": "해변과 산으로 가기",
+          "title-vn": "Ra biển, lên núi"
+        },
+        {
+          "id": "Bvi000000021",
+          "image": "./....",
+          "order": 4,
+          "title-de": "Museen besuchen",
+          "title-en": "Visiting museums",
+          "title-ko": "박물관 방문",
+          "title-vn": "Thăm bảo tàng"
+        },
+        {
+          "id": "Bvi000000022",
+          "image": "./....",
+          "order": 5,
+          "title-de": "Straßenessen",
+          "title-en": "Street food",
+          "title-ko": "길거리 음식",
+          "title-vn": "Ẩm thực đường phố"
+        },
+        {
+          "id": "Bvi000000023",
+          "image": "./....",
+          "order": 6,
+          "title-de": "Volksfeste",
+          "title-en": "Folk festivals",
+          "title-ko": "민속 축제",
+          "title-vn": "Lễ hội dân gian"
+        }
+      ]
+    },
+    {
+      "id": "Avi0000000005",
+      "name": "5. Cơ thể - bệnh tật - bệnh viện",
+      "order": 5,
+      "title-de": "Körper - koankheit - koankenhaus",
+      "title-en": "Body - illness - hospital",
+      "title-ko": "신체 - 질병 - 병원",
+      "title-vn": "Cơ thể - bệnh tật - bệnh viện",
+      "lessons": [
+        {
+          "id": "Bvi000000024",
+          "image": "./....",
+          "order": 1,
+          "title-de": "Körperteile beschreiben",
+          "title-en": "Describing body parts",
+          "title-ko": "신체 부위 설명",
+          "title-vn": "Mô tả các bộ phận cơ thể"
+        },
+        {
+          "id": "Bvi000000025",
+          "image": "./....",
+          "order": 2,
+          "title-de": "Arztbesuch, wo es schmerzt",
+          "title-en": "Visiting the doctor, where it hurts",
+          "title-ko": "의사 방문, 아픈 곳",
+          "title-vn": "Tới gặp bác sỹ, tôi đau ở đâu"
+        },
+        {
+          "id": "Bvi000000026",
+          "image": "./....",
+          "order": 3,
+          "title-de": "Arztbesuch, wo es schmerzt",
+          "title-en": "Visiting the doctor, where it hurts",
+          "title-ko": "의사 방문, 아픈 곳",
+          "title-vn": "Tới gặp bác sỹ, tôi đau ở đâu"
+        },
+        {
+          "id": "Bvi000000027",
+          "image": "./....",
+          "order": 4,
+          "title-de": "Notruf - koankenhausabteilungen",
+          "title-en": "Calling emergency - Hospital departments",
+          "title-ko": "응급실 호출 - 병원 부서",
+          "title-vn": "Gọi cấp cứu - Các khoa trong bệnh viện"
+        },
+        {
+          "id": "Bvi000000028",
+          "image": "./....",
+          "order": 5,
+          "title-de": "Patientenpflege",
+          "title-en": "Taking care of patients",
+          "title-ko": "환자 돌보기",
+          "title-vn": "Chăm sóc người bệnh"
+        }
+      ]
+    },
+    {
+      "id": "Avi0000000006",
+      "name": "6. Thể thao - các môn yêu thích",
+      "order": 6,
+      "title-de": "Sport - Lieblingsaktivitäten",
+      "title-en": "Sports - favorite activities",
+      "title-ko": "스포츠 - 좋아하는 활동",
+      "title-vn": "Thể thao - các môn yêu thích",
+      "lessons": [
+        {
+          "id": "Bvi000000029",
+          "image": "./....",
+          "order": 1,
+          "title-de": "Nach Talenten und Interessen fragen",
+          "title-en": "Asking about talents and interests",
+          "title-ko": "재능과 관심사에 대해 묻기",
+          "title-vn": "Hỏi về năng khiếu, sở thích"
+        },
+        {
+          "id": "Bvi000000030",
+          "image": "./....",
+          "order": 2,
+          "title-de": "Sportausrüstung kaufen",
+          "title-en": "Buying sports equipment",
+          "title-ko": "스포츠 용품 구매",
+          "title-vn": "Đi mua đồ thể thao"
+        },
+        {
+          "id": "Bvi000000031",
+          "image": "./....",
+          "order": 3,
+          "title-de": "Aufwärmen - Schwimmen",
+          "title-en": "Warm-up - swimming",
+          "title-ko": "준비운동 - 수영",
+          "title-vn": "Khởi động - bơi lội"
+        },
+        {
+          "id": "Bvi000000032",
+          "image": "./....",
+          "order": 4,
+          "title-de": "Laufen - Trail - Wandern",
+          "title-en": "Running - trail - hiking",
+          "title-ko": "달리기 - 트레일 - 등산",
+          "title-vn": "Chạy bộ - trail - leo núi"
+        },
+        {
+          "id": "Bvi000000033",
+          "image": "./....",
+          "order": 5,
+          "title-de": "Laufen - Trail - Wandern",
+          "title-en": "Running - trail - hiking",
+          "title-ko": "달리기 - 트레일 - 등산",
+          "title-vn": "Chạy bộ - trail - leo núi"
+        },
+        {
+          "id": "Bvi000000034",
+          "image": "./....",
+          "order": 6,
+          "title-de": "Laufen - Trail - Wandern",
+          "title-en": "Running - trail - hiking",
+          "title-ko": "달리기 - 트레일 - 등산",
+          "title-vn": "Chạy bộ - trail - leo núi"
+        }
+      ]
+    },
+    {
+      "id": "Avi0000000007",
+      "name": "7. Thuê nhà, sắm đồ cho chung cư",
+      "order": 7,
+      "title-de": "Wohnung mieten und einrichten",
+      "title-en": "Renting and furnishing an apartment",
+      "title-ko": "아파트 임대와 가구 구매",
+      "title-vn": "Thuê nhà, sắm đồ cho chung cư",
+      "lessons": [
+        {
+          "id": "Bvi000000035",
+          "image": "./....",
+          "order": 1,
+          "title-de": "Arten von Häusern und Wohnungen zur Miete",
+          "title-en": "Types of houses and apartments for rent",
+          "title-ko": "임대용 주택과 아파트 종류",
+          "title-vn": "Các loại nhà, chung cư cho thuê"
+        },
+        {
+          "id": "Bvi000000036",
+          "image": "./....",
+          "order": 2,
+          "title-de": "Mietverfahren, Vertragsende",
+          "title-en": "Rental procedures, ending contracts",
+          "title-ko": "임대 절차, 계약 종료",
+          "title-vn": "Thủ tục thuê nhà,  kết thúc hợp đồng"
+        },
+        {
+          "id": "Bvi000000037",
+          "image": "./....",
+          "order": 3,
+          "title-de": "Einzug, Nutzung von Versorgungseinrichtungen",
+          "title-en": "Moving in, using utilities",
+          "title-ko": "입주, 공과금 사용",
+          "title-vn": "Chuyển vào sống, sử dụng tiện ích"
+        },
+        {
+          "id": "Bvi000000038",
+          "image": "./....",
+          "order": 4,
+          "title-de": "Zimmer dekorieren",
+          "title-en": "Decorating the room",
+          "title-ko": "방 꾸미기",
+          "title-vn": "Trang trí phòng trọ"
+        },
+        {
+          "id": "Bvi000000039",
+          "image": "./....",
+          "order": 5,
+          "title-de": "Schäden melden, Reparaturen anfordern",
+          "title-en": "Reporting damages, requesting repairs",
+          "title-ko": "고장 신고, 수리 요청",
+          "title-vn": "Báo hỏng, yêu cầu sửa chữa"
+        }
+      ]
+    },
+    {
+      "id": "Avi0000000008",
+      "name": "8. Nấu nướng - ăn uống - tiệc tùng",
+      "order": 8,
+      "title-de": "Kochen - Essen - Feiern",
+      "title-en": "Cooking - dining - parties",
+      "title-ko": "요리 - 식사 - 파티",
+      "title-vn": "Nấu nướng - ăn uống - tiệc tùng",
+      "lessons": [
+        {
+          "id": "Bvi000000040",
+          "image": "./....",
+          "order": 1,
+          "title-de": "Küche und Kochutensilien",
+          "title-en": "Kitchen and cooking utensils",
+          "title-ko": "주방과 조리 도구",
+          "title-vn": "Nhà bếp và các dụng cụ nấu nướng"
+        },
+        {
+          "id": "Bvi000000041",
+          "image": "./....",
+          "order": 2,
+          "title-de": "Freunde zum Essen einladen",
+          "title-en": "Inviting friends for meals",
+          "title-ko": "친구를 식사에 초대하기",
+          "title-vn": "Hẹn bạn đến ăn uống"
+        },
+        {
+          "id": "Bvi000000042",
+          "image": "./....",
+          "order": 3,
+          "title-de": "Feste und Partys besuchen",
+          "title-en": "Attending feasts and parties",
+          "title-ko": "연회와 파티 참석",
+          "title-vn": "Đi ăn cỗ, dự tiệc"
+        },
+        {
+          "id": "Bvi000000043",
+          "image": "./....",
+          "order": 4,
+          "title-de": "Bier und Alkohol",
+          "title-en": "Beer and alcohol",
+          "title-ko": "맥주와 술",
+          "title-vn": "Bia - rượu"
+        },
+        {
+          "id": "Bvi000000044",
+          "image": "./....",
+          "order": 5,
+          "title-de": "Gemeinsam kochen",
+          "title-en": "Cooking together",
+          "title-ko": "함께 요리하기",
+          "title-vn": "Cùng nhau nấu nướng"
+        }
+      ]
+    }
+  ],
+  "languages": {
+    "de": "Deutsch",
+    "en": "English",
+    "ko": "Korean"
+  },
+  "toLanguage": {
+    "code": "vi_vn",
+    "image": "./...."
+  }
+}

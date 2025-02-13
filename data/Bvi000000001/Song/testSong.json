@@ -1,0 +1,759 @@
+{
+  "id": "Kvi000000001",
+  "images": [
+    {
+      "url": "0000aG012.png",
+      "start": 0,
+      "end": 1000
+    },
+    {
+      "url": "0000aG013.png",
+      "start": 2000,
+      "end": 8000
+    }
+  ],
+  "sentences-translated": [
+    "Hello, hello, how are you?",
+    "Morning, noon, or evening time?",
+    "When we meet, let's say: 'Hello, friend!'",
+    "A bright smile brings joy all day long!",
+    "Hello, hello, how are you?",
+    "Let's greet each other and stay happy!",
+    "When meeting elders, what should we say?",
+    "'Grandpa, Grandma, Aunt, Uncle, hello!'",
+    "When meeting friends, greet right away:",
+    "'Hello, hello, joy today!'",
+    "Hello, hello, how are you?",
+    "Let's greet each other and stay happy!",
+    "'Hello' is English, 'Bonjour' is French,",
+    "But in Vietnamese, 'Xin chào' resounds!",
+    "Wherever we go, we always remember,",
+    "Greeting with joy connects us all!",
+    "Hello, hello, how are you?",
+    "Let's greet each other and stay happy!",
+    "A smile on the lips, a friendly hello,",
+    "Hello, hello, my dear friend!"
+  ],
+  "words": [
+    {
+      "word": "Xin",
+      "start": 8060,
+      "end": 8060
+    },
+    {
+      "word": "chào",
+      "start": 8060,
+      "end": 8800
+    },
+    {
+      "word": "xin",
+      "start": 8820,
+      "end": 9020
+    },
+    {
+      "word": "chào",
+      "start": 9020,
+      "end": 9520
+    },
+    {
+      "word": "bạn",
+      "start": 9600,
+      "end": 9700
+    },
+    {
+      "word": "khỏe",
+      "start": 9700,
+      "end": 10020
+    },
+    {
+      "word": "không? #",
+      "start": 10020,
+      "end": 10820
+    },
+    {
+      "word": "Buổi",
+      "start": 11440,
+      "end": 11780
+    },
+    {
+      "word": "sáng",
+      "start": 11780,
+      "end": 12580
+    },
+    {
+      "word": "buổi",
+      "start": 12600,
+      "end": 12740
+    },
+    {
+      "word": "trưa",
+      "start": 12740,
+      "end": 13240
+    },
+    {
+      "word": "hay",
+      "start": 13280,
+      "end": 13460
+    },
+    {
+      "word": "buổi",
+      "start": 13460,
+      "end": 13660
+    },
+    {
+      "word": "tối? #",
+      "start": 13660,
+      "end": 14510
+    },
+    {
+      "word": "Gặp",
+      "start": 15440,
+      "end": 15600
+    },
+    {
+      "word": "nhau",
+      "start": 15600,
+      "end": 15980
+    },
+    {
+      "word": "ta",
+      "start": 15980,
+      "end": 16440
+    },
+    {
+      "word": "nói:",
+      "start": 16440,
+      "end": 17080
+    },
+    {
+      "word": "Chào",
+      "start": 17100,
+      "end": 17240
+    },
+    {
+      "word": "bạn",
+      "start": 17240,
+      "end": 17440
+    },
+    {
+      "word": "nhé! #",
+      "start": 17440,
+      "end": 18390
+    },
+    {
+      "word": "Nụ",
+      "start": 19160,
+      "end": 19320
+    },
+    {
+      "word": "cười",
+      "start": 19320,
+      "end": 19680
+    },
+    {
+      "word": "thật",
+      "start": 19680,
+      "end": 20140
+    },
+    {
+      "word": "tươi",
+      "start": 20140,
+      "end": 20600
+    },
+    {
+      "word": "vui",
+      "start": 20740,
+      "end": 20740
+    },
+    {
+      "word": "suốt",
+      "start": 20740,
+      "end": 20980
+    },
+    {
+      "word": "ngày! #",
+      "start": 20980,
+      "end": 22840
+    },
+    {
+      "word": "Xin",
+      "start": 22840,
+      "end": 23060
+    },
+    {
+      "word": "chào",
+      "start": 23060,
+      "end": 23580
+    },
+    {
+      "word": "xin",
+      "start": 23720,
+      "end": 23920
+    },
+    {
+      "word": "chào",
+      "start": 23920,
+      "end": 24320
+    },
+    {
+      "word": "bạn",
+      "start": 24320,
+      "end": 24500
+    },
+    {
+      "word": "khỏe",
+      "start": 24500,
+      "end": 24940
+    },
+    {
+      "word": "không? #",
+      "start": 24940,
+      "end": 26040
+    },
+    {
+      "word": "Hãy",
+      "start": 26660,
+      "end": 26820
+    },
+    {
+      "word": "chào",
+      "start": 26820,
+      "end": 27260
+    },
+    {
+      "word": "nhau",
+      "start": 27260,
+      "end": 27680
+    },
+    {
+      "word": "nhé",
+      "start": 27680,
+      "end": 28100
+    },
+    {
+      "word": "vui",
+      "start": 28100,
+      "end": 28220
+    },
+    {
+      "word": "thật",
+      "start": 28220,
+      "end": 28460
+    },
+    {
+      "word": "lâu! #",
+      "start": 28460,
+      "end": 29510
+    },
+    {
+      "word": "Khi",
+      "start": 37540,
+      "end": 37540
+    },
+    {
+      "word": "gặp",
+      "start": 37540,
+      "end": 37840
+    },
+    {
+      "word": "người",
+      "start": 37840,
+      "end": 38080
+    },
+    {
+      "word": "lớn",
+      "start": 38080,
+      "end": 39020
+    },
+    {
+      "word": "ta",
+      "start": 39440,
+      "end": 39440
+    },
+    {
+      "word": "chào",
+      "start": 39440,
+      "end": 39680
+    },
+    {
+      "word": "sao? #",
+      "start": 39680,
+      "end": 40280
+    },
+    {
+      "word": "Cháu",
+      "start": 41220,
+      "end": 41360
+    },
+    {
+      "word": "chào",
+      "start": 41360,
+      "end": 41600
+    },
+    {
+      "word": "ông",
+      "start": 41600,
+      "end": 41840
+    },
+    {
+      "word": "bà",
+      "start": 41840,
+      "end": 42440
+    },
+    {
+      "word": "cô",
+      "start": 43020,
+      "end": 43040
+    },
+    {
+      "word": "chú",
+      "start": 43040,
+      "end": 43540
+    },
+    {
+      "word": "ơi! #",
+      "start": 43540,
+      "end": 44640
+    },
+    {
+      "word": "Khi",
+      "start": 44900,
+      "end": 45100
+    },
+    {
+      "word": "gặp",
+      "start": 45100,
+      "end": 45340
+    },
+    {
+      "word": "bạn",
+      "start": 45340,
+      "end": 45600
+    },
+    {
+      "word": "bè",
+      "start": 45600,
+      "end": 46250
+    },
+    {
+      "word": "ta",
+      "start": 46800,
+      "end": 46900
+    },
+    {
+      "word": "chào",
+      "start": 46900,
+      "end": 47220
+    },
+    {
+      "word": "ngay: #",
+      "start": 47220,
+      "end": 48020
+    },
+    {
+      "word": "Chào",
+      "start": 49140,
+      "end": 49340
+    },
+    {
+      "word": "bạn",
+      "start": 49340,
+      "end": 50060
+    },
+    {
+      "word": "chào",
+      "start": 50080,
+      "end": 50280
+    },
+    {
+      "word": "bạn",
+      "start": 50280,
+      "end": 50540
+    },
+    {
+      "word": "vui",
+      "start": 50680,
+      "end": 50720
+    },
+    {
+      "word": "hôm",
+      "start": 50720,
+      "end": 51000
+    },
+    {
+      "word": "nay! #",
+      "start": 51000,
+      "end": 52600
+    },
+    {
+      "word": "Xin",
+      "start": 52880,
+      "end": 53060
+    },
+    {
+      "word": "chào",
+      "start": 53060,
+      "end": 53600
+    },
+    {
+      "word": "xin",
+      "start": 53680,
+      "end": 53920
+    },
+    {
+      "word": "chào",
+      "start": 53920,
+      "end": 54320
+    },
+    {
+      "word": "bạn",
+      "start": 54380,
+      "end": 54500
+    },
+    {
+      "word": "khỏe",
+      "start": 54500,
+      "end": 54940
+    },
+    {
+      "word": "không? #",
+      "start": 54940,
+      "end": 56040
+    },
+    {
+      "word": "Hãy",
+      "start": 56680,
+      "end": 56820
+    },
+    {
+      "word": "chào",
+      "start": 56820,
+      "end": 57260
+    },
+    {
+      "word": "nhau",
+      "start": 57260,
+      "end": 57660
+    },
+    {
+      "word": "nhé",
+      "start": 57660,
+      "end": 58100
+    },
+    {
+      "word": "vui",
+      "start": 58180,
+      "end": 58240
+    },
+    {
+      "word": "thật",
+      "start": 58240,
+      "end": 58460
+    },
+    {
+      "word": "lâu! #",
+      "start": 58460,
+      "end": 60060
+    },
+    {
+      "word": "Hello",
+      "start": 60120,
+      "end": 60820
+    },
+    {
+      "word": "là",
+      "start": 60840,
+      "end": 61040
+    },
+    {
+      "word": "tiếng",
+      "start": 61040,
+      "end": 61420
+    },
+    {
+      "word": "Anh",
+      "start": 61420,
+      "end": 62080
+    },
+    {
+      "word": "Bonjour",
+      "start": 62100,
+      "end": 63000
+    },
+    {
+      "word": "tiếng",
+      "start": 63000,
+      "end": 63300
+    },
+    {
+      "word": "Pháp #",
+      "start": 63300,
+      "end": 63900
+    },
+    {
+      "word": "Nhưng",
+      "start": 64040,
+      "end": 64180
+    },
+    {
+      "word": "tiếng",
+      "start": 64180,
+      "end": 64500
+    },
+    {
+      "word": "Việt",
+      "start": 64500,
+      "end": 64900
+    },
+    {
+      "word": "mình",
+      "start": 64900,
+      "end": 65580
+    },
+    {
+      "word": "Xin",
+      "start": 65740,
+      "end": 65820
+    },
+    {
+      "word": "chào",
+      "start": 65820,
+      "end": 66380
+    },
+    {
+      "word": "vang",
+      "start": 66520,
+      "end": 66800
+    },
+    {
+      "word": "khắp! #",
+      "start": 66800,
+      "end": 67640
+    },
+    {
+      "word": "Dù",
+      "start": 67660,
+      "end": 67880
+    },
+    {
+      "word": "ở",
+      "start": 67880,
+      "end": 68440
+    },
+    {
+      "word": "nơi",
+      "start": 68440,
+      "end": 68940
+    },
+    {
+      "word": "đâu",
+      "start": 68940,
+      "end": 69540
+    },
+    {
+      "word": "ta",
+      "start": 69700,
+      "end": 69720
+    },
+    {
+      "word": "vẫn",
+      "start": 69720,
+      "end": 69940
+    },
+    {
+      "word": "nhớ",
+      "start": 69940,
+      "end": 70480
+    },
+    {
+      "word": "rằng #",
+      "start": 70480,
+      "end": 71600
+    },
+    {
+      "word": "Chào",
+      "start": 71620,
+      "end": 71840
+    },
+    {
+      "word": "hỏi",
+      "start": 71840,
+      "end": 72260
+    },
+    {
+      "word": "thật",
+      "start": 72260,
+      "end": 72540
+    },
+    {
+      "word": "vui",
+      "start": 72540,
+      "end": 73120
+    },
+    {
+      "word": "kết",
+      "start": 73120,
+      "end": 73420
+    },
+    {
+      "word": "nối",
+      "start": 73420,
+      "end": 73900
+    },
+    {
+      "word": "muôn",
+      "start": 73900,
+      "end": 74420
+    },
+    {
+      "word": "nơi! #",
+      "start": 74420,
+      "end": 75720
+    },
+    {
+      "word": "Xin",
+      "start": 83550,
+      "end": 84800
+    },
+    {
+      "word": "chào",
+      "start": 84800,
+      "end": 85480
+    },
+    {
+      "word": "xin",
+      "start": 85560,
+      "end": 85760
+    },
+    {
+      "word": "chào",
+      "start": 85760,
+      "end": 86260
+    },
+    {
+      "word": "bạn",
+      "start": 86360,
+      "end": 86360
+    },
+    {
+      "word": "khỏe",
+      "start": 86360,
+      "end": 86820
+    },
+    {
+      "word": "không? #",
+      "start": 86820,
+      "end": 88070
+    },
+    {
+      "word": "Hãy",
+      "start": 88280,
+      "end": 88680
+    },
+    {
+      "word": "chào",
+      "start": 88680,
+      "end": 89120
+    },
+    {
+      "word": "nhau",
+      "start": 89120,
+      "end": 89560
+    },
+    {
+      "word": "nhé",
+      "start": 89560,
+      "end": 89980
+    },
+    {
+      "word": "vui",
+      "start": 90020,
+      "end": 90100
+    },
+    {
+      "word": "thật",
+      "start": 90100,
+      "end": 90360
+    },
+    {
+      "word": "lâu! #",
+      "start": 90360,
+      "end": 92180
+    },
+    {
+      "word": "Nụ",
+      "start": 92260,
+      "end": 92440
+    },
+    {
+      "word": "cười",
+      "start": 92440,
+      "end": 92800
+    },
+    {
+      "word": "trên",
+      "start": 92800,
+      "end": 93300
+    },
+    {
+      "word": "môi",
+      "start": 93300,
+      "end": 93940
+    },
+    {
+      "word": "lời",
+      "start": 93980,
+      "end": 94220
+    },
+    {
+      "word": "chào",
+      "start": 94220,
+      "end": 94720
+    },
+    {
+      "word": "thân",
+      "start": 94720,
+      "end": 95180
+    },
+    {
+      "word": "ái #",
+      "start": 95180,
+      "end": 95980
+    },
+    {
+      "word": "Xin",
+      "start": 95980,
+      "end": 96180
+    },
+    {
+      "word": "chào",
+      "start": 96180,
+      "end": 96680
+    },
+    {
+      "word": "xin",
+      "start": 96720,
+      "end": 97000
+    },
+    {
+      "word": "chào",
+      "start": 97000,
+      "end": 97440
+    },
+    {
+      "word": "bạn",
+      "start": 97460,
+      "end": 97600
+    },
+    {
+      "word": "của",
+      "start": 97600,
+      "end": 97820
+    },
+    {
+      "word": "tôi! #",
+      "start": 97820,
+      "end": 98370
+    }
+  ]
+}

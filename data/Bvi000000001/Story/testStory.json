@@ -1,0 +1,182 @@
+{
+  "id": "Tvi000000001",
+  "audio": "Tvi000000001.oga",
+  "images": [
+    {
+      "url": "012345678.png",
+      "start": 1000,
+      "end": 2000
+    },
+    {
+      "url": "012345679.png",
+      "start": 3000,
+      "end": 8000
+    }
+  ],
+  "translation": [
+    "James is an American aerospace engineer. He works at a large company that specializes in designing and manufacturing aircraft.",
+    "James loves his job because it requires creativity and advanced technical skills. Meanwhile, Lan is a Vietnamese teacher.",
+    "She teaches Math at a secondary school. Lan is always dedicated to her students and strives to convey knowledge in the most understandable way."
+  ],
+  "words": [
+    {
+      "text": "James",
+      "time_start": 50,
+      "time_end": 325
+    },
+    {
+      "text": "là",
+      "time_start": 337,
+      "time_end": 625
+    },
+    {
+      "text": "một",
+      "time_start": 675,
+      "time_end": 813
+    },
+    {
+      "text": "kỹ sư",
+      "time_start": 887,
+      "time_end": 1037
+    },
+    {
+      "text": "hàng không",
+      "time_start": 1062,
+      "time_end": 1225
+    },
+    {
+      "text": "người Mỹ",
+      "time_start": 1250,
+      "time_end": 1600
+    },
+    {
+      "text": "James",
+      "time_start": 1620,
+      "time_end": 1900
+    },
+    {
+      "text": "yêu",
+      "time_start": 1920,
+      "time_end": 2125
+    },
+    {
+      "text": "công việc",
+      "time_start": 2145,
+      "time_end": 2300
+    },
+    {
+      "text": "vì",
+      "time_start": 2320,
+      "time_end": 2700
+    },
+    {
+      "text": "đòi hỏi",
+      "time_start": 2725,
+      "time_end": 3000
+    },
+    {
+      "text": "sáng tạo",
+      "time_start": 3025,
+      "time_end": 3400
+    },
+    {
+      "text": "Lan",
+      "time_start": 3450,
+      "time_end": 3700
+    },
+    {
+      "text": "là",
+      "time_start": 3750,
+      "time_end": 3900
+    },
+    {
+      "text": "một",
+      "time_start": 3925,
+      "time_end": 4050
+    },
+    {
+      "text": "giáo viên",
+      "time_start": 4075,
+      "time_end": 4350
+    },
+    {
+      "text": "dạy toán",
+      "time_start": 4375,
+      "time_end": 4700
+    },
+    {
+      "text": "tại trường",
+      "time_start": 4725,
+      "time_end": 5000
+    }
+  ],
+  "multiple_choice": [
+    {
+      "id": "Qvi000000001",
+      "text": "James làm công việc gì?",
+      "options": [
+        "Kỹ sư phần mềm",
+        "Kỹ sư hàng không",
+        "Giáo viên tiếng Anh",
+        "Nhà nghiên cứu ngôn ngữ"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "Qvi000000002",
+      "text": "Lan dạy môn học nào?",
+      "options": [
+        "Văn học",
+        "Toán",
+        "Lịch sử",
+        "Địa lý"
+      ],
+      "answer": 2
+    },
+    {
+      "id": "Qvi000000003",
+      "text": "Lan là người nước nào?",
+      "options": [
+        "Mỹ",
+        "Trung Quốc",
+        "Việt Nam",
+        "Nhật Bản"
+      ],
+      "answer": 3
+    }
+  ],
+  "fill_in_the_blank": [
+    {
+      "id": "Qvi000000004",
+      "text-from": "James likes Viet Nam",
+      "text-to": "James thích Việt Nam",
+      "text-to-gap": "James [] []",
+      "options": [
+        "ghét",
+        "yêu",
+        "hận",
+        "Việt Nam",
+        "Đức",
+        "Trung Quốc",
+        "thích"
+      ]
+    },
+    {
+      "id": "Qvi000000005",
+      "text-from": "James meets with Lan at the airport",
+      "text-to": "James gặp mặt với Lan tại sân bay",
+      "text-to-gap": "James [] với Lan tại []",
+      "options": [
+        "ăn uống",
+        "yêu",
+        "sân bay",
+        "đi chơi",
+        "ga tàu hỏa",
+        "Trung Quốc",
+        "tiễn",
+        "bến xe",
+        "gặp mặt"
+      ]
+    }
+  ]
+}

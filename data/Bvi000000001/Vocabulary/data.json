@@ -1,0 +1,137 @@
+{
+  "audio_asset": "Vvi000000001.oga",
+  "parts": [
+    {
+      "id": "Vvi000000001",
+      "image": "012233456.png",
+      "word": "Xin chào",
+      "translated_word": "Hello",
+      "time_start": 50,
+      "time_end": 625,
+      "translated_sentence_example": "Hello, my name is Lan",
+      "sentence_example": [
+        {
+          "text": "Xin",
+          "time_start": 50,
+          "time_end": 325
+        },
+        {
+          "text": "chào",
+          "time_start": 337,
+          "time_end": 625
+        },
+        {
+          "text": ",",
+          "time_start": 675,
+          "time_end": 813
+        },
+        {
+          "text": "tôi",
+          "time_start": 887,
+          "time_end": 1037
+        },
+        {
+          "text": "là",
+          "time_start": 1062,
+          "time_end": 1225
+        },
+        {
+          "text": "Lan",
+          "time_start": 1250,
+          "time_end": 1600
+        },
+        {
+          "text": ",",
+          "time_start": 1662,
+          "time_end": 1812
+        },
+        {
+          "text": "rất",
+          "time_start": 1875,
+          "time_end": 2000
+        },
+        {
+          "text": "vui",
+          "time_start": 2037,
+          "time_end": 2250
+        },
+        {
+          "text": "được",
+          "time_start": 2287,
+          "time_end": 2462
+        },
+        {
+          "text": "gặp",
+          "time_start": 2487,
+          "time_end": 2650
+        },
+        {
+          "text": "bạn",
+          "time_start": 2700,
+          "time_end": 2988
+        },
+        {
+          "text": ".",
+          "time_start": 3000,
+          "time_end": 3013
+        }
+      ]
+    },
+    {
+      "id": "Vvi000000002",
+      "image": "012233457.png",
+      "word": "Tạm biệt",
+      "translated_word": "Goodbye",
+      "time_start": 50,
+      "time_end": 625,
+      "translated_sentence_example": "Hello, my name is Lan",
+      "sentence_example": [
+        {
+          "text": "Tạm",
+          "time_start": 3850,
+          "time_end": 4075
+        },
+        {
+          "text": "biệt",
+          "time_start": 4137,
+          "time_end": 4300
+        },
+        {
+          "text": "mọi",
+          "time_start": 4337,
+          "time_end": 4525
+        },
+        {
+          "text": "người",
+          "time_start": 4587,
+          "time_end": 4825
+        },
+        {
+          "text": ",",
+          "time_start": 4850,
+          "time_end": 5075
+        },
+        {
+          "text": "hẹn",
+          "time_start": 5075,
+          "time_end": 5275
+        },
+        {
+          "text": "gặp",
+          "time_start": 5337,
+          "time_end": 5500
+        },
+        {
+          "text": "lại",
+          "time_start": 5512,
+          "time_end": 5787
+        },
+        {
+          "text": "!",
+          "time_start": 5875,
+          "time_end": 5888
+        }
+      ]
+    }
+  ]
+}
